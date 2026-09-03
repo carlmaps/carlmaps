@@ -31,6 +31,32 @@ applications and I'm currently focused on AI/ML and Generative AI engineering.
 
 📫 Email: cmmapada@gmail.com
 
+## 🛠️ Technologies & Tools
+
+<table>
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+<br/>Python
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
+<br/>Pandas
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
+<br/>PyTorch
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
+<br/>AWS
+</td>
+</tr>
+</table>
+
 
 ---
 
