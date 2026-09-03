@@ -35,24 +35,34 @@ applications and I'm currently focused on AI/ML and Generative AI engineering.
 
 <table>
 <tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-<br/>Python
+<td align="center" style="background-color: white; border: 1px solid #d0d7de; border-radius: 8px; padding: 12px 20px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<br/>
+<b>Python</b>
 </td>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/>
-<br/>Pandas
+<td width="10"></td>
+
+<td align="center" style="background-color: white; border: 1px solid #d0d7de; border-radius: 8px; padding: 12px 20px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+<br/>
+<b>Pandas</b>
 </td>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50"/>
-<br/>PyTorch
+<td width="10"></td>
+
+<td align="center" style="background-color: white; border: 1px solid #d0d7de; border-radius: 8px; padding: 12px 20px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
+<br/>
+<b>PyTorch</b>
 </td>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
-<br/>AWS
+<td width="10"></td>
+
+<td align="center" style="background-color: white; border: 1px solid #d0d7de; border-radius: 8px; padding: 12px 20px;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
+<br/>
+<b>AWS</b>
 </td>
 </tr>
 </table>
