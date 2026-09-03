@@ -1,16 +1,102 @@
-## Hi there 👋
+# 👋 Hi, I'm Carl Mapada
 
-<!--
-**carlmaps/carlmaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | Generative AI | Machine Learning | Python
 
-Here are some ideas to get you started:
+I'm a Software Engineer with 15+ years of experience building enterprise
+applications and I'm currently focused on AI/ML and Generative AI engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 M.S. Computer Science — Data Science
+
+🤖 Currently building:
+- LLM-powered applications
+- RAG and knowledge-based assistants
+- AI agents
+- NLP and Transformer applications
+- Machine learning pipelines
+
+☁️ Cloud:
+- Microsoft Azure
+- Microsoft Foundry
+- Azure OpenAI
+- AWS
+
+💻 Software Engineering:
+- Python
+- Java
+- Spring Boot
+- REST APIs
+- Microservices
+- Docker
+- Kubernetes
+
+📫 Email: cmmapada@gmail.com
+
+
+---
+
+## 🤖 AI & Machine Learning
+
+[![AI Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&perline=8)](https://skillicons.dev)
+
+**Generative AI**
+
+LLMs • RAG • Embeddings • Prompt Engineering • AI Agents • NLP • Transformers
+
+**Machine Learning**
+
+Scikit-learn • PyTorch • Hugging Face • Pandas • NumPy • MLflow • DVC
+
+---
+
+## 🚀 Featured AI Projects
+
+### 🪸 Reef AI — Insurance AI Assistant
+
+AI-powered insurance knowledge assistant built with Microsoft Foundry
+and Azure OpenAI.
+
+**Technologies**
+
+Python • Microsoft Foundry • Azure OpenAI • LLMs • RAG • AI Agents • Next.js
+
+**Focus**
+
+- Domain-specific AI assistant
+- Insurance knowledge retrieval
+- LLM-based question answering
+- Agent architecture
+- Enterprise AI integration
+
+---
+
+### 🧠 NLP Sentiment Analysis
+
+End-to-end NLP classification project using Transformer models.
+
+**Technologies**
+
+Python • Hugging Face • Transformers • DistilBERT • MLflow • DVC
+
+**Focus**
+
+- Text preprocessing
+- Tokenization
+- Transformer models
+- Model evaluation
+- Experiment tracking
+- Reproducible ML workflows
+
+---
+
+### 🩺 Stroke Prediction
+
+Machine learning classification project comparing multiple algorithms.
+
+**Technologies**
+
+Python • Pandas • Scikit-learn • XGBoost • LightGBM • SMOTE
+
+**Models**
+
+Logistic Regression • Random Forest • Gradient Boosting • XGBoost •
+LightGBM • KNN
